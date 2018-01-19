@@ -1,0 +1,7 @@
+Кто является владельцем торговой марки JavaScript?
+
+ Netscape Communications
+ Sun Microsystems
+ Intel
+ Microsoft Corporation
+ *Oracle Corporation
